@@ -1,0 +1,2 @@
+####  Yazılım Android de Yapılacaktır
+###    Masaüstü İçin C# Java ilede Yapabilirsiniz C# da Türkçe Dil Desteğinde ne yazık ki yok başka Yöntelerle Yapılanabiliyor ama zahmetli Türkçe Dll doysa gibi yöntler mevcuttur onu yapamamadım :)
